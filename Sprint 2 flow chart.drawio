@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" modified="2023-11-20T03:03:56.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UNsHmn7jYnbtH3myOZLV" version="21.7.5" type="google">
+  <diagram name="Page-1" id="6WgURjfW2kkqPQ5oZM81">
+    <mxGraphModel dx="1320" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M6T_WZWvl92AGWbqFYi9-1" target="M6T_WZWvl92AGWbqFYi9-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-1" value="&lt;p&gt;Start Program&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M6T_WZWvl92AGWbqFYi9-5" target="M6T_WZWvl92AGWbqFYi9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-5" value="Speaks &quot;Ready, Set, Go!!&quot; and then turns green" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M6T_WZWvl92AGWbqFYi9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-7" value="Spins 357 degrees at a speed of 70 for 6.8s and then stop for 1.5s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M6T_WZWvl92AGWbqFYi9-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-9" value="Spins -357 degrees at a speed of 70 for 6.8s and then stop for 1.5s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6T_WZWvl92AGWbqFYi9-11" target="M6T_WZWvl92AGWbqFYi9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-11" value="Turns red and speaks &quot;I win!! Ha ha!!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M6T_WZWvl92AGWbqFYi9-12" value="&lt;p&gt;Start Program&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="799" width="360" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
